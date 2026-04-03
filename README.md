@@ -25,5 +25,5 @@ The dataset was obtained from Kaggle and includes:
 - SQL Server
 - Excel
 
-## 📄 Documentation
+## Documentation
 See the attached PDF file for full analysis.
